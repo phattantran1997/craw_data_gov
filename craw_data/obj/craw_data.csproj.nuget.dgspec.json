@@ -1,30 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lv/Documents/freelance/craw_data/craw_data/craw_data.csproj": {}
+    "C:\\Users\\BINH\\Documents\\GitHub\\MyBlog\\craw_data_gov\\craw_data\\craw_data.csproj": {}
   },
   "projects": {
-    "/Users/lv/Documents/freelance/craw_data/craw_data/craw_data.csproj": {
+    "C:\\Users\\BINH\\Documents\\GitHub\\MyBlog\\craw_data_gov\\craw_data\\craw_data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lv/Documents/freelance/craw_data/craw_data/craw_data.csproj",
+        "projectUniqueName": "C:\\Users\\BINH\\Documents\\GitHub\\MyBlog\\craw_data_gov\\craw_data\\craw_data.csproj",
         "projectName": "craw_data",
-        "projectPath": "/Users/lv/Documents/freelance/craw_data/craw_data/craw_data.csproj",
-        "packagesPath": "/Users/lv/.nuget/packages/",
-        "outputPath": "/Users/lv/Documents/freelance/craw_data/craw_data/obj/",
+        "projectPath": "C:\\Users\\BINH\\Documents\\GitHub\\MyBlog\\craw_data_gov\\craw_data\\craw_data.csproj",
+        "packagesPath": "C:\\Users\\BINH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\BINH\\Documents\\GitHub\\MyBlog\\craw_data_gov\\craw_data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/Users/lv/.config/NuGet/NuGet.Config"
+          "C:\\Users\\BINH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -36,7 +43,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
