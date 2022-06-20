@@ -320,10 +320,7 @@ C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\r
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\razor_web.TagHelpers.input.cache
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\razor_web.TagHelpers.output.cache
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\razor_web.RazorCoreGenerate.cache
-C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -336,3 +333,5 @@ C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\r
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\razor_web.csproj.CopyComplete
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\razor_web.exe
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\razor_web.pdb
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\Razor\Views\Home\Config.cshtml.g.cs
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\Razor\Views\Home\Config2.cshtml.g.cs
