@@ -42,6 +42,7 @@ namespace craw_data
 
             app.UseAuthorization();
 
+     
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

@@ -31,7 +31,8 @@ namespace razor_web
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
+            services.AddSwaggerGen();
+         
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
@@ -52,12 +53,17 @@ namespace razor_web
             app.UseStaticFiles();
             app.UseCookiePolicy();
 
+            app.UseSwagger();
+            app.UseSwaggerUI();
+         
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+
            // app.UseMvcWithDefaultRoute();
         }
     }
