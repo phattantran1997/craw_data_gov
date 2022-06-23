@@ -44,6 +44,10 @@
       "frameworks": {
         "net461": {
           "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
             "Microsoft.AspNetCore": {
               "target": "Package",
               "version": "[2.1.7, )"
@@ -89,6 +93,18 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.10, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[102.0.5005.6102, )"
             },
             "Swashbuckle.AspNetCore.Swagger": {
               "target": "Package",

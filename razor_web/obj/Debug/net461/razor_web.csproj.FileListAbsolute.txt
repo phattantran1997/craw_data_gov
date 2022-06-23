@@ -367,3 +367,6 @@ C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\r
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\razor_web.exe
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\razor_web.pdb
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\obj\Debug\net461\razor_web.csprojAssemblyReference.cache
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Debug\net461\WebDriver.dll
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Debug\net461\WebDriver.Support.dll
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Debug\net461\SeleniumExtras.WaitHelpers.dll
