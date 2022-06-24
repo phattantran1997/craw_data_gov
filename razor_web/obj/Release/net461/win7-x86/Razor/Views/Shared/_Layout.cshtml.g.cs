@@ -62,7 +62,7 @@ using razor_web.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(25, 1081, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "67c981edb5234856b76261217989af60", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a7135cbc5fe4217bc98db30a978a25f", async() => {
                 BeginContext(31, 121, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n    <title>");
                 EndContext();
@@ -111,12 +111,12 @@ using razor_web.Models;
             WriteLiteral("\r\n\r\n");
             EndContext();
             BeginContext(1110, 2215, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "12568435d45f48d78a5dc985a8fe55fa", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6392031e7bd8470a887c2f55f89e2ef0", async() => {
                 BeginContext(1116, 92, true);
                 WriteLiteral("\r\n    <nav class=\"navbar navbar-dark header\">\r\n        <div class=\"container\">\r\n            ");
                 EndContext();
                 BeginContext(1208, 99, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d97abe628c4c47b5adbd1b34da74187f", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1719d84ff04e490c998475fc72677ef5", async() => {
                     BeginContext(1294, 9, true);
                     WriteLiteral("Razor web");
                     EndContext();
@@ -143,7 +143,7 @@ using razor_web.Models;
                 WriteLiteral("\r\n        </div>\r\n    </nav>\r\n\r\n\r\n\r\n    <div class=\"container\">\r\n        <nav class=\"nav nav-pills nav-fill mt-3\">\r\n            ");
                 EndContext();
                 BeginContext(1435, 87, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "81d3fc8f57f54594a30b87a23fdbec10", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ee128f4c673047a4b55581db61c9d59a", async() => {
                     BeginContext(1510, 8, true);
                     WriteLiteral("Config 1");
                     EndContext();
@@ -170,7 +170,7 @@ using razor_web.Models;
                 WriteLiteral("\r\n            ");
                 EndContext();
                 BeginContext(1536, 88, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fdc27721695d46109f1b0fd23648c30c", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "04de7a90cce84e8a8887d7fdb47dbdd0", async() => {
                     BeginContext(1612, 8, true);
                     WriteLiteral("Config 2");
                     EndContext();

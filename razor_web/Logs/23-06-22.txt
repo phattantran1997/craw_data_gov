@@ -1,7 +1,20 @@
-Call api/login!
-10:14 23/06/2022 Call api/login!
-10:14 23/06/2022 Call api/login!
-10:54 23/06/2022 Call api/login!
-10:54 23/06/2022 Started with username: username
-10:56 23/06/2022 Call api/login!
-10:57 23/06/2022 Started with username: username
+16:41 23/06/2022 Started with username: PSTNTN85C26F839N
+16:42 23/06/2022 [Api/login] : Timed out after 10 seconds
+
+16:51 23/06/2022 Cookie::
+--- Login page : PSTNTN85C26F839N ---
+	siampeLB = 05 
+	siampeAC = AQIC5wM2LY4SfcyovmVnU_0oHf0jpqGHRWxT2MR0ZJ0WMwc.*AAJTSQACMDYAAlNLABIyOTI0MjcwNTkxNjI3MDI3NDIAAlMxAAIwNQ..* 
+	JSESSIONID = 43483F20E642FC407A135846AE8DCE8A 
+
+16:51 23/06/2022 Started with username: PSTNTN85C26F839N
+16:51 23/06/2022 [Api/login] : Timed out after 10 seconds
+
+16:53 23/06/2022 Cookie::
+--- Login page : PSTNTN85C26F839N ---
+	 siampeLB = 04 
+	 siampeAC = AQIC5wM2LY4SfcyBp3zM7SukkSfAzreE8DvkDdByF-RedMs.*AAJTSQACMDYAAlNLABMzODU1ODQyNTU1MDQwNDQxNTg4AAJTMQACMDQ.* 
+	 JSESSIONID = FD8F5D27733C9B9522905F5221C6FB3E 
+
+16:53 23/06/2022 Started with username: PSTNTN85C26F839N
+16:53 23/06/2022 [Api/login] : Timed out after 10 seconds

@@ -367,3 +367,6 @@ C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\win7-x86\System.Data.SqlClient.dll
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\win7-x86\System.Interactive.Async.dll
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\win7-x86\System.Text.Json.dll
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\win7-x86\SeleniumExtras.WaitHelpers.dll
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\win7-x86\WebDriver.Support.dll
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\win7-x86\WebDriver.dll

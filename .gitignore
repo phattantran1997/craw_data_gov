@@ -1,3 +1,4 @@
 .vs
 razor_web/bin
 craw_data/bin
+razor_web/PROPS/Props.cs

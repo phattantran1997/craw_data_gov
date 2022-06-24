@@ -60,7 +60,7 @@ using razor_web.Models;
             WriteLiteral("<h2>Config 2</h2>\r\n");
             EndContext();
             BeginContext(62, 360, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b969638f7b3d4408b9c8587e9173f689", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6b9827d34ce242bcbd2944b0edc9bac5", async() => {
                 BeginContext(68, 347, true);
                 WriteLiteral(@"
     <div class=""row"">

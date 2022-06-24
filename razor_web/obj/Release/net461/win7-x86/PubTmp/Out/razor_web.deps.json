@@ -24,6 +24,7 @@
     ".NETFramework,Version=v4.6.1": {
       "razor_web/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
           "Microsoft.AspNetCore": "2.1.7",
           "Microsoft.AspNetCore.CookiePolicy": "2.1.14",
           "Microsoft.AspNetCore.HttpsPolicy": "2.1.1",
@@ -35,6 +36,9 @@
           "Microsoft.EntityFrameworkCore.Tools": "2.1.14",
           "Microsoft.VisualStudio.Web.BrowserLink": "2.1.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.10",
+          "Selenium.Support": "4.2.0",
+          "Selenium.WebDriver": "4.2.0",
+          "Selenium.WebDriver.ChromeDriver": "102.0.5005.6102",
           "Swashbuckle.AspNetCore.Swagger": "6.3.1",
           "Swashbuckle.AspNetCore.SwaggerGen": "6.3.1",
           "Swashbuckle.AspNetCore.SwaggerUI": "6.3.1",
@@ -779,6 +783,14 @@
       "System.Xml.XPath.XDocument.Reference/4.1.0.0": {
         "compile": {
           "System.Xml.XPath.XDocument.dll": {}
+        }
+      },
+      "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.2.0"
+        },
+        "compile": {
+          "lib/net45/SeleniumExtras.WaitHelpers.dll": {}
         }
       },
       "Microsoft.AspNetCore/2.1.7": {
@@ -1922,6 +1934,20 @@
           "lib/net45/Remotion.Linq.dll": {}
         }
       },
+      "Selenium.Support/4.2.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.2.0"
+        },
+        "compile": {
+          "lib/net46/WebDriver.Support.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.2.0": {
+        "compile": {
+          "lib/net46/WebDriver.dll": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/102.0.5005.6102": {},
       "Swashbuckle.AspNetCore.Swagger/6.3.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Routing": "2.1.1",
@@ -2195,6 +2221,7 @@
     ".NETFramework,Version=v4.6.1/win7-x86": {
       "razor_web/1.0.0": {
         "dependencies": {
+          "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
           "Microsoft.AspNetCore": "2.1.7",
           "Microsoft.AspNetCore.CookiePolicy": "2.1.14",
           "Microsoft.AspNetCore.HttpsPolicy": "2.1.1",
@@ -2206,6 +2233,9 @@
           "Microsoft.EntityFrameworkCore.Tools": "2.1.14",
           "Microsoft.VisualStudio.Web.BrowserLink": "2.1.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.10",
+          "Selenium.Support": "4.2.0",
+          "Selenium.WebDriver": "4.2.0",
+          "Selenium.WebDriver.ChromeDriver": "102.0.5005.6102",
           "Swashbuckle.AspNetCore.Swagger": "6.3.1",
           "Swashbuckle.AspNetCore.SwaggerGen": "6.3.1",
           "Swashbuckle.AspNetCore.SwaggerUI": "6.3.1",
@@ -2335,6 +2365,14 @@
         },
         "runtime": {
           "razor_web.exe": {}
+        }
+      },
+      "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.2.0"
+        },
+        "runtime": {
+          "lib/net45/SeleniumExtras.WaitHelpers.dll": {}
         }
       },
       "Microsoft.AspNetCore/2.1.7": {
@@ -3482,6 +3520,20 @@
           "lib/net45/Remotion.Linq.dll": {}
         }
       },
+      "Selenium.Support/4.2.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.2.0"
+        },
+        "runtime": {
+          "lib/net46/WebDriver.Support.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.2.0": {
+        "runtime": {
+          "lib/net46/WebDriver.dll": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/102.0.5005.6102": {},
       "Swashbuckle.AspNetCore.Swagger/6.3.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Routing": "2.1.1",
@@ -3762,6 +3814,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xc6jVVl5ymgk3ZNWnC/KHxkEup1QpnwYbrwF+NQoCOGERsD8YMlLwmsX4lGhLXCLo/YQTRTIwlKCN9E/doGUNg==",
+      "path": "dotnetseleniumextras.waithelpers/3.11.0",
+      "hashPath": "dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore/2.1.7": {
       "type": "package",
@@ -4595,6 +4654,27 @@
       "sha512": "sha512-fK/76UmpC0FXBlGDFVPLJHQlDLYnGC+XY3eoDgCgbtrhi0vzbXDQ3n/IYHhqSKqXQfGw/u04A1drWs7rFVkRjw==",
       "path": "remotion.linq/2.2.0",
       "hashPath": "remotion.linq.2.2.0.nupkg.sha512"
+    },
+    "Selenium.Support/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SSX00fRnEQyy9Z4J2tUjM22NRdnc1fR0KSQ9vszannwCHH8QixrZo2xUM76xffjeuOfVkckS9WBWCG0I0AJsgw==",
+      "path": "selenium.support/4.2.0",
+      "hashPath": "selenium.support.4.2.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1FE1Y1F0p6zuS/1RybCxkuoywVvcV2XJv10uqShOTNSpY/hyLM3Hk/D03CPmqkZ4l2vYArcjlunTV/FSY7dpmA==",
+      "path": "selenium.webdriver/4.2.0",
+      "hashPath": "selenium.webdriver.4.2.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/102.0.5005.6102": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TGqy37Fn7QXfkOYSLHWorYTPJyeUA88FolgwdDZCafs//FqlTMet4zNGH4nGBOH/bjeWHHBmjmAwtpu/L4iQcg==",
+      "path": "selenium.webdriver.chromedriver/102.0.5005.6102",
+      "hashPath": "selenium.webdriver.chromedriver.102.0.5005.6102.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore.Swagger/6.3.1": {
       "type": "package",

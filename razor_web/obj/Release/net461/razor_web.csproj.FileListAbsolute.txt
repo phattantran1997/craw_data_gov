@@ -367,3 +367,6 @@ C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\System.Text.Json.dll
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\SeleniumExtras.WaitHelpers.dll
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\WebDriver.Support.dll
+C:\Users\BINH\Documents\GitHub\MyBlog\craw_data_gov\razor_web\bin\Release\net461\WebDriver.dll

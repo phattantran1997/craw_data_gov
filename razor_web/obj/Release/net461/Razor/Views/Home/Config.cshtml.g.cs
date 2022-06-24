@@ -62,7 +62,7 @@ using razor_web.Models;
             WriteLiteral("    <div class=\"mt-5\"></div>\r\n\r\n    <div class=\"card\">\r\n        <div class=\"card-header fw-bold\">\r\n            Config 1\r\n        </div>\r\n        <div class=\"card-body\">\r\n            ");
             EndContext();
             BeginContext(224, 1700, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "631f022f12fe4648aa230d9acfb104a8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a3a627f404be4261864d63078cdfe0a4", async() => {
                 BeginContext(246, 1343, true);
                 WriteLiteral(@"
                 <div class=""col-md-6"">
@@ -92,7 +92,7 @@ using razor_web.Models;
                         ");
                 EndContext();
                 BeginContext(1589, 35, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f68595b344da49d2a674de5e0109aa2b", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "05f8ba5d983c427da4ca55474b576c96", async() => {
                     BeginContext(1606, 9, true);
                     WriteLiteral("Choose...");
                     EndContext();
@@ -115,7 +115,7 @@ using razor_web.Models;
                 WriteLiteral("\r\n                        ");
                 EndContext();
                 BeginContext(1650, 20, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "debb1ffd36764e80b66358613dda15c9", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "27f45041a4d745078aa15e2d47659ed1", async() => {
                     BeginContext(1658, 3, true);
                     WriteLiteral("...");
                     EndContext();
